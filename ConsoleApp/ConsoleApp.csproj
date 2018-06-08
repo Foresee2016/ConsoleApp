@@ -83,6 +83,7 @@
     <Compile Include="Db\MySql\Student.cs" />
     <Compile Include="Excel\ReadExcel.cs" />
     <Compile Include="Generic\GenericClass.cs" />
+    <Compile Include="Generic\GenericMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
